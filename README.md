@@ -7,3 +7,9 @@ used by over 2500 libre projects and companies in more than 165 countries.**
 
 [![Website](https://img.shields.io/badge/website-weblate.org-blue.svg)](https://weblate.org/)
 [![Documentation](https://readthedocs.org/projects/weblate/badge/)][doc]
+
+## Documentation
+
+Detailed documentation is available in [Weblate documentation][doc].
+
+[doc]: https://docs.weblate.org/en/latest/
